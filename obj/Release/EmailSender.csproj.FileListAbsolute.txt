@@ -1,0 +1,9 @@
+E:\ProcsExe\EmailSender\EmailSender\bin\Release\EmailSender.exe.config
+E:\ProcsExe\EmailSender\EmailSender\bin\Release\EmailSender.exe
+E:\ProcsExe\EmailSender\EmailSender\bin\Release\EmailSender.pdb
+E:\ProcsExe\EmailSender\EmailSender\bin\Release\ProcsDLL.dll
+E:\ProcsExe\EmailSender\EmailSender\bin\Release\Microsoft.mshtml.dll
+E:\ProcsExe\EmailSender\EmailSender\obj\Release\EmailSender.csprojResolveAssemblyReference.cache
+E:\ProcsExe\EmailSender\EmailSender\obj\Release\EmailSender.csproj.EmailSender.exe.config
+E:\ProcsExe\EmailSender\EmailSender\obj\Release\EmailSender.exe
+E:\ProcsExe\EmailSender\EmailSender\obj\Release\EmailSender.pdb
